@@ -3,9 +3,9 @@
 Plugin Name: WP Hide Plugin Updates and Warnings
 Description: The plugin allows you to disable/hide plugin notifications. Visit our website for information www.midlandwebcompany.com/wp-hide-plugin-notifications/
 Version: 1.0
-Plugin URI: http://www.midlandwebcompany.com/wp-hide-plugin-notifications/
-Author: Midland Web Company
-Author URI: http://www.midlandwebcompany.com/
+Plugin URI: https://tinajam.wordpress.com/
+Author: Tahir Iqbal
+Author URI: https://tinajam.wordpress.com/
 TextDomain: wphpuw
 */
 
